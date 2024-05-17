@@ -15,9 +15,10 @@ Projekt lohnen würde. Und ich glaube mich vertraut mit Html zu machen wäre gut
 
 ## 17.05.2024
 
-- [ ] Erstellen einer einfachen Html-Seite
-- [ ] Designen mit CSS
-- [ ] Interaktivitäten hinzufügen
+- [ ] Erstellen einer einfachen Html-Seite über Basketball mit einem Titel, Hintergrundbild und einen einfachen Text
+- [ ] Der Titel soll zentriert und oben in der Schriftart Bebasneue geschrieben werden
+- [ ] Der Text soll in einer Box sein hintergrundfarbe in grau und einen schatten
+- [ ] Textblock soll ein Link haben von einer anderen Seite und ein hovereffekt
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
