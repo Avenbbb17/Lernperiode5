@@ -25,10 +25,10 @@ Heute habe ich an einer einfachen HTML-Seite gearbeitet. Ich habe gelernt, wie m
 
 ## 24.05.2024
 
-- [] Der Text soll in einer Box sein hintergrundfarbe in grau und einen schatten
-- [] Die Seite soll Bilder und Videos beinhalten und es soll zum text passen
-- [] Formulare sollen auch hinzugefügt werden
-- [] Modul weiterarbeiten 122
+- [ ] Der Text soll in einer Box sein hintergrundfarbe in grau und einen schatten
+- [ ] Die Seite soll Bilder und Videos beinhalten und es soll zum text passen
+- [ ] Formulare sollen auch hinzugefügt werden
+- [ ] Modul weiterarbeiten 122
 
 
 
