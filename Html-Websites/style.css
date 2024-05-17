@@ -1,0 +1,6 @@
+body {
+    background-image: url('images/MJ.jpg'); /* Pfad zu deinem Bild */
+    background-size: cover;
+    background-position: center top; /* Bild zentrieren */
+    background-repeat: no-repeat; /* Bild nicht wiederholen */
+}
