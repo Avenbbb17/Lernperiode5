@@ -30,5 +30,11 @@ Heute habe ich an einer einfachen HTML-Seite gearbeitet. Ich habe gelernt, wie m
 - [ ] Formulare sollen auch hinzugefügt werden
 - [ ] Modul weiterarbeiten 122
 
+Heute konnte ich alle Arbeitspakete erledigen. Ich habe den Text in einer Box positioniert. Meine Website enthält jetzt auch Bilder, aber ich konnte sie nicht passend zum Text anordnen. Sie erscheinen einfach unter dem Text. Videos enthält meine Website nicht, aber man kann sie durch Klicken auf einen Link ansehen. Meine Website enthält auch Formulare, in die man seinen Namen und seine E-Mail-Adresse eintragen kann. Anfangs hatte ich Schwierigkeiten mit den Formularen, aber durch das Video in Teams habe ich ein besseres Verständnis bekommen und konnte das Arbeitspaket erfolgreich abschließen.(109)
 
+## 31.05.2024
 
+- [ ] Neue HTML-seite verknüpft mit der ersten
+- [ ] Sie soll ähnlich wie die erste sein (ohne Formulare)
+- [ ] Sie soll anschaulicher sein  zmb. Text aufklappen
+- [ ] Powershell üben
