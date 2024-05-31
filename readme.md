@@ -38,3 +38,12 @@ Heute konnte ich alle Arbeitspakete erledigen. Ich habe den Text in einer Box po
 - [ ] Sie soll ähnlich wie die erste sein (ohne Formulare)
 - [ ] Sie soll anschaulicher sein  zmb. Text aufklappen
 - [ ] Powershell üben
+
+Heute habe ich nur am Modul gearbeitet ich habe die Aufträge 1708,1709 und 1710 gemacht. Ich habe gelernt, wie man Netzwerkadaptereigenschaften und Methoden abruft. Vieles war mir auch neu. Die Syntax für einige Befehle war für mich noch eine Herausforderung. Beim nächsten Mal könnte ich vielleicht schneller arbeiten. Ich habe gelernt, wie man eine Variable in PowerShell definiert und ihren Datentyp ermittelt, wie man mit dem Cmdlet den Status eines Dienstes abruft und wie man Methoden auf Objekten anwendet. Ich habe die Befehle korrekt anwenden können und die Aufgaben erfüllt. (99)
+
+## 07.06.2024
+
+- [ ] Neue HTML-seite verknüpft mit der ersten
+- [ ] Sie soll ähnlich wie die erste sein (ohne Formulare)
+- [ ] Sie soll anschaulicher sein  zmb. Text aufklappen
+- [ ] Powershell Projekt weiterführen
