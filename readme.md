@@ -47,3 +47,12 @@ Heute habe ich nur am Modul gearbeitet ich habe die Aufträge 1708,1709 und 1710
 - [ ] Sie soll ähnlich wie die erste sein (ohne Formulare)
 - [ ] Sie soll anschaulicher sein  zmb. Text aufklappen
 - [ ] Powershell Projekt weiterführen
+
+Am vergangenen Freitag habe ich meine HTML-Kenntnisse weiter vertieft und gelernt, wie man zwei verschiedene Websites miteinander verknüpfen kann. Das Erstellen von Hyperlinks zwischen zwei Seiten war nicht so schwer aber es ist ein wichtiger Schritt, um eine benutzerfreundliche Navigation zu ermöglichen. Zusätzlich habe ich mich mit der Gestaltung von ansprechendem Text beschäftigt, um die Inhalte meiner Website visuell ansprechend zu präsentieren. (44)
+
+## 14.06.2024
+
+- [ ] Html Projekt: Wilkommen seite und Hintergrund soll braun sein
+- [ ] Html Projekt: Menüs sollen drauf sein
+- [ ] Html Projekt: Bilder und Text sollen nach Mockup gerichtet aussehen
+- [ ] Mockup der Verknüpften Seiten erstellen
