@@ -60,9 +60,15 @@ Am vergangenen Freitag habe ich meine HTML-Kenntnisse weiter vertieft und gelern
 Heute habe ich an diesen vier Arbeitspaketen gearbeitet. Ich konnte die Arbeitspakete schneller als gedacht bearbeiten. Die Willkommenseite sieht ansprechend aus, und die Menüs sehen auch gut aus. Das Design gefällt mir jedoch nicht ganz. Weil ich die Arbeitspakete schnell erledigen konnte, nahm ich mir auch extra genug Zeit für die Mockups. Ich konnte zwei fertigstellen.(54)
 
 
-## 20.06.2024
+## 21.06.2024
 
 - [ ] Design von Wilkommenseite verbessern.
 - [ ] 1.Mockupvorlage auf Html umsetzten
 - [ ] 2.Mockupvorlage auf Html umsetzten
 - [ ] Powershell Projekt
+
+Heute habe ich  viel Zeit damit verbracht mein Willkommenseite zu verbessern, deswegen bin ich nicht dazu gekommen die restlichen Arbeitspakete zu bearbeiten. Ich habe heute gelernt wie man den Footer macht und das ein Grid für das Layout besser ist als ein Absolut. Ich habe jetzt auch für meine Grundfarben Variablen eingesetzt. (50)
+
+## 28.06.2024
+
+- [ ] Website verbessern nach Abgabe ( Wird noch genauer definiert bis nach der Abgabe)
