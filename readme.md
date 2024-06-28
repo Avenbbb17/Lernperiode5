@@ -1,12 +1,5 @@
 # Lern-Periode 5
 
-23.4 bis 25.6.2024
-
-## Grob-Planung
-
-1.Meine Noten haben sich verbessert und ich bin jetzt gut dran. Ich war beim Modul 164 ungenügend und bei 187 war ich am besten. 
-2. Ich hatte mir vorgenommen und mein VBV waren das ich mich gut auf das 2. Jahr vorbereite.
-4. Ein html Projekt oder irgendein Programmierprojekt wären geeignet.
 
 ## 03.05.2024
 
@@ -72,3 +65,18 @@ Heute habe ich  viel Zeit damit verbracht mein Willkommenseite zu verbessern, de
 ## 28.06.2024
 
 - [ ] Website verbessern nach Abgabe ( Wird noch genauer definiert bis nach der Abgabe)
+
+
+
+## Reflexion
+
+In dieser Lernperiode habe ich mich intensiv mit der Erstellung meiner Website beschäftigt. Anfangs fiel es mir schwer, konzentriert und effizient zu arbeiten, da ich mich erst in die neue Materie einfinden und die passenden Tools kennenlernen musste. Doch im Laufe der Zeit konnte ich mich steigern und das Projekt erfolgreich vorantreiben. 
+
+Zu Beginn habe ich mich auf die Grundlagen von HTML, CSS und JavaScript konzentriert, was sich später als sehr hilfreich erwies, da ich ein solides Fundament für den weiteren Aufbau meiner Website hatte. Ich lernte, präzise Arbeitspakete zu erstellen, die mir halfen, den Überblick über die verschiedenen Aufgaben zu behalten und meine Zeit effizient einzuteilen. Die Qualität meiner Arbeitspakete verbesserte sich im Laufe des Projekts stetig, da ich durch Feedback und meine eigenen Erfahrungen dazulernte.
+
+Besonders stolz bin ich auf die Fortschritte, die ich bei der Gestaltung und Funktionalität meiner Website gemacht habe. Durch den Einsatz von CSS konnte ich ein ansprechendes Layout erstellen und die Seite optisch aufwerten. Mit JavaScript habe ich interaktive Elemente hinzugefügt, die die Benutzerfreundlichkeit erhöhen.
+
+Um meine Arbeitsweise weiter zu optimieren, werde ich in Zukunft von Anfang an konzentrierter an Aufgaben herangehen und mir von Beginn an einen klaren Zeitplan setzen. Zudem möchte ich meine Kenntnisse in JavaScript weiter vertiefen, um noch komplexere Funktionen auf meiner Website implementieren zu können.
+
+Insgesamt bin ich mit dem Ergebnis meiner Arbeit zufrieden und freue mich darauf, in zukünftigen Projekten meine neu erworbenen Fähigkeiten weiter auszubauen.
+
